@@ -198,4 +198,9 @@ MIT License © 2025
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
+# 👥 Contribuidores
+¡Gracias a todos los que colaboran en este proyecto! Puedes añadir tu nombre aquí:
+* [Kennet Rodriguez](https://github.com/Kennetrl)
+* [Hugo](https://github.com/hugooae)
+* [Alberto](https://github.com/alberto2005-coder)
 ```
