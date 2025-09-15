@@ -294,13 +294,6 @@ Asegúrate de que estén configuradas:
 - `SESSION_SECRET` - Clave secreta para sesiones
 - `NODE_ENV=production` - Modo de producción
 
-## 🔮 Próximas Características
-
-- 🔐 Autenticación de usuarios
-- 🏷️ Sistema de categorías y etiquetas
-- 🔍 Búsqueda y filtros avanzados
-- 🔔 Notificaciones en tiempo real con WebSockets  
-- 📸 Capacidad de subir imágenes a las ideas
 
 ## 📄 Licencia
 
