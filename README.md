@@ -1,7 +1,9 @@
-¡Perfecto! Aquí tienes el **README.md completo listo para copiar y pegar** en tu proyecto:
 
-````markdown
 # 🎯 IdeaBoard
+
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/e6093de3-cad5-4deb-8562-470aff21913f" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/c1e5e87b-cd1d-4b42-b667-2a336e102d49" />
+
 
 [![Node.js](https://img.shields.io/badge/Node.js-22+-green?logo=node.js)](https://nodejs.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14+-blue?logo=postgresql)](https://www.postgresql.org/)
